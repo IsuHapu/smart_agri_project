@@ -1,0 +1,26 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smart-agri-15432",
+          "appId": "1:898363864915:android:a5b974a0680f13f359d3a6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smart-agri-15432",
+          "configurations": {
+            "android": "1:898363864915:android:a5b974a0680f13f359d3a6",
+            "windows": "1:898363864915:web:3aa9b0092bc9de8959d3a6"
+          }
+        }
+      }
+    }
+  }
+}
