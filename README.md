@@ -81,7 +81,7 @@ A comprehensive Flutter application for managing ESP32-based Smart Agriculture m
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd smart_agri
+   cd smart_agri_project
    ```
 
 2. **Install dependencies**
